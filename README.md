@@ -53,13 +53,4 @@ Follow these steps to run the project locally:
     python main.py
     ```
 
-## 📂 Project Structure
 
-```text
-Chat_With_PDF/
-├── task/               # Main application code
-├── uploads/            # Directory for uploaded PDFs
-├── venv/               # Virtual Environment (Ignored by Git)
-├── .gitignore          # Git ignore rules
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
