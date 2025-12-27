@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pymongo
+llama-index-core
+llama-index-vector-stores-mongodb
+llama-index-embeddings-huggingface
+llama-index-llms-google-genai
+python-dotenv
