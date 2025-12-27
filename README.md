@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
     ```
 
 4.  **Set up Environment Variables:**
-    Create a `.env` file in the root directory and add your API Key:
+    Create a `config.py` file in the root directory and add your API Key:
     ```env
     GEMINI_API_KEY=your_api_key_here
     ```
