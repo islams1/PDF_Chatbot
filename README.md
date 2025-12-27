@@ -23,7 +23,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Zedny-Intern/Chat_With_PDF.git
+    git clone https://github.com/islams1/PDF_Chatbot.git
     cd Chat_With_PDF
     ```
 
